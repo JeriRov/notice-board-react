@@ -1,0 +1,9 @@
+export const FORM_ACTION_NOTICES = '/notices';
+export const SEARCH_FORM_METHOD = 'get';
+export const SEARCH_INPUT_NAME = 'search';
+export const SEARCH_INPUT_PLACEHOLDER = 'Що шукаєте?';
+export const SEARCH_INPUT_ICON_SIZE = 28;
+export const CITY_INPUT_NAME = 'city';
+export const SEARCH_BUTTON_TITLE = 'Пошук';
+export const SEARCH_BUTTON_ICON_SIZE = 28;
+export const SEARCH_BUTTON_TYPE = 'submit';
